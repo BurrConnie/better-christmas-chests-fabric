@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.better-christmas-chests.title": "Better Christmas Chests",
+  "text.autoconfig.better-christmas-chests.option.christmasModeEnabled": "Відображення різдвяних скринь",
+  "text.autoconfig.better-christmas-chests.option.charmPresentsEnabled": "Різдвяні блоки Charm",
+  "text.autoconfig.better-christmas-chests.option.christmasHorseEnabled": "Різдвяні скрині на конях",
+  "text.autoconfig.better-christmas-chests.option.christmasZombieHorseEnabled": "Різдвяні скрині на конях-скелетах/-зомбі",
+  "text.autoconfig.better-christmas-chests.option.christmasDonkeyEnabled": "Різдвяні скрині на віслюках/мулах",
+  "text.autoconfig.better-christmas-chests.option.christmasChestEnabled": "Різдвяні скрині",
+  "text.autoconfig.better-christmas-chests.option.christmasTrappedChestEnabled": "Різдвяні скрині-пастки",
+  "text.autoconfig.better-christmas-chests.option.christmasEnderChestEnabled": "Різдвяні скрині Енду",
+  "text.autoconfig.better-christmas-chests.option.christmasMinecartWithChestEnabled": "Різдвяні вагонетки зі скринями",
+  "text.autoconfig.better-christmas-chests.option.christmasChestBoatEnabled": "Різдвяні човни зі скринями"
+}
